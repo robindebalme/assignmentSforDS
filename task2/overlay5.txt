@@ -1,0 +1,12 @@
+uA 2 uB
+uB 2 uC
+uC 3 uD u2
+uD 2 uE
+uE 2 uF
+uF 1 uA
+u0 2 u1
+u1 2 u2
+u2 3 u3 uC
+u3 2 u4
+u4 2 u5
+u5 1 u0
